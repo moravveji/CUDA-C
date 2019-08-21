@@ -4,4 +4,3 @@ CMakeLists.txt
 *.exe
 *.o
 core.*
-ch01-hello-world.cu
